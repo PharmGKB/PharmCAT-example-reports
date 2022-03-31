@@ -1,0 +1,24 @@
+##fileformat=VCFv4.1
+##fileDate=2015-08-04
+##source=IlluminaPlatinumGenomes, version: hg38_2.0.1
+##reference=hg38
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FILTER=<ID=PASS,Description="All filters passed">
+##SAMPLE=<ID=PharmCAT,Description="Synthetic PharmCAT test">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	PharmCAT
+chr6	18149022	.	C	.	.	PASS	assume-default	GT	0/0
+chr6	18147845	.	C	.	.	PASS	assume-default	GT	0/0
+chr6	18143724	rs1800462	C	.	.	PASS	assume-default	GT	0/0
+chr6	18143670	rs72552739	C	.	.	PASS	assume-default	GT	0/0
+chr6	18143606	rs151149760	T	.	.	PASS	assume-default	GT	0/0
+chr6	18139710	rs200220210	G	.	.	PASS	assume-default	GT	0/0
+chr6	18138997	rs1800460	C	.	.	PASS	assume-default	GT	0/0
+chr6	18138983	rs2842934	G	.	.	PASS	assume-default	GT	0/0
+chr6	18138969	rs144041067	C	.	.	PASS	assume-default	GT	0/0
+chr6	18133890	rs9333570	C	CTACAAAGAACACAAGAAG	.	PASS	long-insertion	GT	1/1
+chr6	18133884	rs74423290	G	.	.	PASS	assume-default	GT	0/0
+chr6	18133847	rs6921269	C	.	.	PASS	assume-default	GT	0/0
+chr6	18133845	rs75543815	T	.	.	PASS	assume-default	GT	0/0
+chr6	18130781	rs1800584	C	.	.	PASS	assume-default	GT	0/0
+chr6	18130762	rs56161402	C	.	.	PASS	assume-default	GT	0/0
+chr6	18130687	rs1142345	T	.	.	PASS	assume-default	GT	0/0
