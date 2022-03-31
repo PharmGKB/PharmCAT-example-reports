@@ -3,7 +3,7 @@
     "namedAlleleMatcherVersion": "1.0.0",
     "genomeBuild": "GRCh38.p13",
     "inputFilename": "example.CYP2C19_noCYP2D6.vcf",
-    "timestamp": "Mar 31, 2022, 2:01:25 PM"
+    "timestamp": "Mar 31, 2022, 2:41:14 PM"
   },
   "results": [
     {

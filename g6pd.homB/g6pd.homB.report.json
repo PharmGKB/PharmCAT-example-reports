@@ -4065,7 +4065,7 @@
     },
     {
       "diplotypes": [
-        "B (wildtype)/B (wildtype)"
+        "B (wildtype)"
       ],
       "gene": "G6PD",
       "hasUncalledHaps": false,
@@ -6403,7 +6403,7 @@
       ],
       "called": true,
       "functions": [
-        "Two normal function alleles"
+        "normal function"
       ],
       "gene": "G6PD",
       "drugs": [
@@ -6413,7 +6413,7 @@
         }
       ],
       "calls": [
-        "B (wildtype)/B (wildtype)"
+        "B (wildtype)"
       ],
       "missingVariants": "N/A",
       "outsideCall": true,
@@ -10470,10 +10470,10 @@
       "geneCalls": [
         {
           "gene": "G6PD",
-          "diplotypes": "B (wildtype)/B (wildtype)",
+          "diplotypes": "B (wildtype)",
           "showHighlights": false,
           "highlightedVariants": [],
-          "functions": "Two normal function alleles",
+          "functions": "normal function",
           "outsideCall": true
         }
       ],
@@ -10490,7 +10490,7 @@
               "term": "Implication for G6PD"
             },
             {
-              "annotation": "G6PD:B (wildtype)/B (wildtype)",
+              "annotation": "G6PD:B (wildtype)",
               "term": "Matched Diplotypes"
             },
             {

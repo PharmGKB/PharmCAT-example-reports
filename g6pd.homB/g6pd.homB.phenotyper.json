@@ -4907,17 +4907,12 @@
           "function": "Normal function",
           "reference": true
         },
-        "allele2": {
-          "gene": "G6PD",
-          "name": "B (wildtype)",
-          "function": "Normal function",
-          "reference": true
-        },
+        "allele2": null,
         "gene": "G6PD",
         "phenotype": "Normal",
         "variant": null,
         "lookupKey": "Normal",
-        "label": "B (wildtype)/B (wildtype)"
+        "label": "B (wildtype)"
       }
     ],
     "diplotypes": [
@@ -4928,17 +4923,12 @@
           "function": "Normal function",
           "reference": true
         },
-        "allele2": {
-          "gene": "G6PD",
-          "name": "B (wildtype)",
-          "function": "Normal function",
-          "reference": true
-        },
+        "allele2": null,
         "gene": "G6PD",
         "phenotype": "Normal",
         "variant": null,
         "lookupKey": "Normal",
-        "label": "B (wildtype)/B (wildtype)"
+        "label": "B (wildtype)"
       }
     ],
     "variants": [],
