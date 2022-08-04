@@ -1,0 +1,14 @@
+##fileformat=VCFv4.2
+##source=PharmCAT test (cyp3a5.s3missing)
+##fileDate=2022-08-03T22:47:58.615083-07:00
+##contig=<ID=chr7,assembly=GRCh38.p13,species="Homo sapiens">
+##FILTER=<ID=PASS,Description="All filters passed">
+##INFO=<ID=PX,Number=.,Type=String,Description="Gene">
+##INFO=<ID=POI,Number=0,Type=Flag,Description="Position of Interest but not part of an allele definition">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	PharmCAT
+chr7	99652770	rs41303343	T	TA	.	PASS	PX=CYP3A5	GT	0/0
+chr7	99660516	rs28383479	C	T	.	PASS	PX=CYP3A5	GT	0/0
+chr7	99665212	rs10264272	C	T	.	PASS	PX=CYP3A5	GT	0/0
+# missing: rs776746
+chr7	99676198	rs55817950	G	A	.	PASS	PX=CYP3A5	GT	0/0

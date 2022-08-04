@@ -1,0 +1,13 @@
+##fileformat=VCFv4.2
+##source=PharmCAT test (ugt1a1.s80s28missing)
+##fileDate=2022-08-03T22:48:00.435316-07:00
+##contig=<ID=chr2,assembly=GRCh38.p13,species="Homo sapiens">
+##FILTER=<ID=PASS,Description="All filters passed">
+##INFO=<ID=PX,Number=.,Type=String,Description="Gene">
+##INFO=<ID=POI,Number=0,Type=Flag,Description="Position of Interest but not part of an allele definition">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	PharmCAT
+chr2	233759924	rs887829	C	T	.	PASS	PX=UGT1A1	GT	0/1
+# missing: rs3064744
+chr2	233760498	rs4148323	G	A	.	PASS	PX=UGT1A1	GT	0/0
+chr2	233760973	rs35350960	C	A	.	PASS	PX=UGT1A1	GT	0/0
